@@ -30,7 +30,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/utkarshroy2004/Remitbee-project-.git
+git clone https://github.com/rupesh8969/remitbee-project.git
 
 # Navigate to project directory
 cd "Remitbee project"
@@ -140,8 +140,8 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 👨‍💻 Developer
 
-**Utkarsh Roy**
-- GitHub: [@utkarshroy2004](https://github.com/utkarshroy2004)
+**Rupesh**
+- GitHub: [@rupesh8969](https://github.com/rupesh8969)
 
 ## 📝 License
 
@@ -155,6 +155,6 @@ This project is created as part of the Remitbee technical assessment.
 
 **⭐ If you like this project, please give it a star! ⭐**
 
-Made with ❤️ by [Utkarsh Roy](https://github.com/utkarshroy2004)
+Made with ❤️ by [Rupesh](https://github.com/rupesh8969)
 
 </div>
