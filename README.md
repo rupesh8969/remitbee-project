@@ -2,9 +2,14 @@
 
 > 💼 A modern, responsive single-page React application that fetches and displays user data with a trendy design.
 
+## 🌐 Live Demo
+
+**🔗 [View Live Application](https://remitbee-project-o3t0o3g6g-vtu22264-3451s-projects.vercel.app/)**
+
 [![React](https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![Material-UI](https://img.shields.io/badge/Material--UI-5.14.20-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://mui.com/)
 [![Vite](https://img.shields.io/badge/Vite-5.0.8-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://remitbee-project-o3t0o3g6g-vtu22264-3451s-projects.vercel.app/)
 
 ## ✨ Features
 
